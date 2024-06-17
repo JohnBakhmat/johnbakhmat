@@ -8,7 +8,7 @@ I like web dev, game dev and so much more. My main focus is full-stack stuff wit
 
 * 🖥️  See my portfolio at [My Personal Site](http://johnbakhmat.tech)
 * ✉️  You can contact me at [johnbakhmat@gmail.com](mailto:johnbakhmat@gmail.com)
-* 🧠  I'm learning Elixir to use it for my shenanigans
+* 🧠  I'm learning Elixir and Gleam to use it for my shenanigans
 * 🤝  I'm open to collaborating on interesting projects, documentation translation, web projects.
 
 ### Skills
