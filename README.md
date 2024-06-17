@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a Software Engineer
 -----------------------
 
-I like web dev, game dev and so much more. My main focus is full-stack stuff with Typescript and writing very important projects with Rust to train my monkey brain.
+I like web dev, game dev and so much more. My main focus is full-stack stuff with Typescript and writing very important projects with Go to train my monkey brain.
 
 * 🖥️  See my portfolio at [My Personal Site](http://johnbakhmat.tech)
 * ✉️  You can contact me at [johnbakhmat@gmail.com](mailto:johnbakhmat@gmail.com)
